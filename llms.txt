@@ -1,0 +1,19 @@
+# Super Mario World (SNES) Reverse Engineering — Knowledge Base
+
+GitMCP endpoint: https://gitmcp.io/ethanhunt1981/smw-reverse-engineering-kb
+
+## What this is for
+
+Byte-exact reverse engineering of Super Mario World (SNES, Ricoh 5A22 / WDC 65816, LoROM): WLA disassembly, Ghidra C-decompilation, Python reimplementation, graphics, audio, level format, sprite AI. Useful for researchers, modders, and AI agents exploring SMW internals.
+
+Not for: distributing the ROM, piracy, or production game shipping.
+
+## Curated index
+
+- Source repo: https://github.com/ethanhunt1981/reverse-engineer-anything_supermarioworld
+- Architecture: https://github.com/ethanhunt1981/reverse-engineer-anything_supermarioworld/blob/main/ARCHITECTURE.md
+- Levels model: https://github.com/ethanhunt1981/reverse-engineer-anything_supermarioworld/blob/main/LEVELS-MODEL-ENGINE.md
+- Roadmap: https://github.com/ethanhunt1981/reverse-engineer-anything_supermarioworld/blob/main/ROADMAP.md
+- Ghidra decompilation: https://github.com/ethanhunt1981/reverse-engineer-anything_supermarioworld/blob/main/docs/GHIDRA-DECOMPILATION.md
+- Audio engine: https://github.com/ethanhunt1981/reverse-engineer-anything_supermarioworld/blob/main/docs/AUDIO-ENGINE.md
+- Graphics: https://github.com/ethanhunt1981/reverse-engineer-anything_supermarioworld/blob/main/docs/GFX.md
