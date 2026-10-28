@@ -2,7 +2,25 @@
 
 [![GitMCP](https://img.shields.io/endpoint?url=https://gitmcp.io/badge/ethanhunt1981/smw-reverse-engineering-kb)](https://gitmcp.io/ethanhunt1981/smw-reverse-engineering-kb) [![Glama MCP](https://glama.ai/mcp/connectors/io.github.ethanhunt1981/smw-reverse-engineering-kb/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ethanhunt1981/smw-reverse-engineering-kb) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-GitMCP-ready knowledge base for Super Mario World (SNES) reverse engineering: WLA disassembly, Ghidra C-decompilation, Python port, graphics, audio, levels, sprites.
+GitMCP-ready knowledge base for Super Mario World (SNES) reverse engineering.
+
+## Repository layout
+
+```
+.
+├── docs/
+├── tools/
+├── ghidra/
+│   └── scripts/
+├── templates/
+├── tests/
+├── assets/
+├── AGENTS.md
+├── LICENSE
+├── README.md
+├── llms.txt
+└── server.json
+```
 
 ## GitMCP
 
